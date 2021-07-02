@@ -12,7 +12,7 @@ public class TestSuite {
 		System.out.println(driver.getTitle());
 		System.out.println(driver.getCurrentUrl());
 		System.out.println("going to youtube");
-		driver.get("https://youtube.com");
+		driver.get("https://www.aha.video");
 		System.out.println(driver.getTitle());
 		System.out.println(driver.getCurrentUrl());
 		System.out.println("going back");
